@@ -1,0 +1,17 @@
+{
+  "name": "emailing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "uzuki",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "dotenv": "^14.2.0",
+    "mime-types": "^2.1.34",
+    "nodemailer": "^6.7.2"
+  }
+}
