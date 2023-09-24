@@ -4,7 +4,7 @@ var nodemailer = require('nodemailer');
   service: 'outlook',
   auth: {
     user: 'tizgha.anouar@outlook.com',
-    pass: '******'
+    pass: 'write the password here ...'
   }
 });
 
